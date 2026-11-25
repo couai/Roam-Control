@@ -1,20 +1,24 @@
 # Roam Control 0.9.5 Migration & SideStore FAQ
 
-This page is retained as historical documentation of the earlier sideloaded app-identity migration.
+This page documents the app-identity migration introduced in Roam Control 0.9.5. The same migration considerations apply when upgrading from 0.9.4 to Build 105. Do not remove an existing installation without first creating and verifying a backup. Build 105 is now available again.
 
 > [!IMPORTANT]
-> **Roam Control is now available on the App Store.**
+> **Distribution update - 25 November 2026**
 >
-> Public IPA distribution has ended.
+> Roam Control was released on the App Store on 24 November 2026. Following a subsequent re-evaluation by Apple, App Store and TestFlight availability have been disabled.
 >
-> Existing sideloaded users must create a backup in **Settings > Backup & Restore**, save it safely outside the app, confirm App Store availability in their region and use **Stop & Restore** before deleting the old installation.
+> The previously released Roam Control 0.9.9 (Build 105) IPA is available again for independent sideloading through [GitHub Releases](https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9). This is an existing release, not a new update.
 >
-> Then [Download Roam Control on the App Store](https://apps.apple.com/app/roam-control/id6838265385), restore the backup and pair the device again.
+> Apple has been contacted and clarification is pending.
 >
-> Backup & Restore is available from version 0.9.4 onwards. Users of earlier versions should contact support before deleting their existing installation if they need to preserve data.
+> **Do not unnecessarily delete or uninstall your existing Roam Control installation.** Migration to the App Store remains suspended. Build 105 is available for independent sideloading.
+>
+> Existing users are encouraged to create a backup through **Settings > Backup & Restore**, where supported, and save it safely outside the app.
+>
+> Roam Control has not been discontinued. Further updates regarding availability will be published here.
 
 
-For current installation and migration instructions, see the [Installation Guide](Installation.md).
+For current distribution status and guidance for existing installations, see the [Installation Guide](Installation.md).
 
 Roam Control 0.9.5 includes a one-time app-identity migration for users upgrading from 0.9.4.
 

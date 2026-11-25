@@ -156,10 +156,10 @@ Open **Settings → Privacy → What Is Shared** for the same disclosure inside 
 ### Pairing notification does not appear in LiveContainer (legacy)
 
 > [!NOTE]
-> This guidance applies only to historical sideloaded installations.
-> Roam Control is now distributed through the App Store.
-> Back up your data and save it safely outside the app before deleting your old installation.
-> See the [Installation Guide](Installation.md) for migration instructions.
+> This guidance applies to independently sideloaded installations.
+> [Roam Control 0.9.9 (Build 105)](https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9) is available for independent sideloading. App Store and TestFlight availability remain suspended.
+> Keep your existing installation and save backups safely outside the app.
+> See the [Installation Guide](Installation.md) for current availability.
 
 For LiveContainer installs, enable **Fix Local Notifications** for Roam Control before its first run:
 

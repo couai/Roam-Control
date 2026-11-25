@@ -1,8 +1,10 @@
 # Roam Control 0.9.9
 
-Build 108, released on the App Store on 24 November 2026.
+Build 105 is the currently available public release, originally released on 20 October 2026 and restored on 25 November 2026.
 
-This is the first official App Store release of Roam Control. It carries forward the features of Build 105 with updated privacy wording for App Store distribution.
+Build 108 was released on the App Store on 24 November 2026.
+
+This was the first official App Store release of Roam Control. It carries forward the features of Build 105 with updated privacy wording for App Store distribution.
 
 ## Highlights
 
@@ -16,38 +18,38 @@ Roam Control 0.9.9 introduces ten interface languages, improved map and route ha
 
 For detailed changes, see [CHANGELOG.md](../CHANGELOG.md).
 
-## Before installing
+## Release requirements
 
 - Requires iOS 27 or newer.
 - Developer Mode remains required for device pairing.
 - LocalDevVPN remains required for local pairing connectivity.
-- SideStore, LiveContainer and IPA signing are no longer required.
+- Build 105 requires SideStore, LiveContainer or another compatible sideloading method.
+- Build 108 was distributed without requiring SideStore, LiveContainer or IPA signing.
 - Intended for development, quality assurance and responsible personal testing on an iPhone you own or control.
 
 > [!IMPORTANT]
-> **Migrating from a sideloaded version? Back up first.**
+> **Distribution update - 25 November 2026**
 >
-> 1. Open your existing Roam Control installation.
-> 2. Go to **Settings > Backup & Restore** and create a backup.
-> 3. Save the backup outside Roam Control, such as in iCloud Drive, and verify that the file is accessible.
-> 4. Confirm Roam Control is available in your App Store region.
-> 5. Stop any active location simulation using **Stop & Restore**.
-> 6. Delete the existing sideloaded Roam Control app. For LiveContainer, remove the Roam Control instance only.
-> 7. [Download Roam Control on the App Store](https://apps.apple.com/app/roam-control/id6838265385).
-> 8. Restore your backup and complete device pairing again.
+> Roam Control was released on the App Store on 24 November 2026. Following a subsequent re-evaluation by Apple, App Store and TestFlight availability have been disabled.
 >
-> **Do not delete your existing installation before safely saving your backup.**
+> The previously released Roam Control 0.9.9 (Build 105) IPA is available again for independent sideloading through [GitHub Releases](https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9). This is an existing release, not a new update.
 >
-> Backups preserve favourites, history and supported preferences. Pairing information is not included.
+> Apple has been contacted and clarification is pending.
 >
-> Backup & Restore is available from version 0.9.4 onwards. If you are using an earlier version, contact support before deleting it if you need to preserve your data.
+> **Do not unnecessarily delete or uninstall your existing Roam Control installation.** Migration to the App Store remains suspended. Build 105 is available for independent sideloading.
+>
+> Existing users are encouraged to create a backup through **Settings > Backup & Restore**, where supported, and save it safely outside the app.
+>
+> Roam Control has not been discontinued. Further updates regarding availability will be published here.
 
 
-## Download
+## Availability
 
-[Download Roam Control on the App Store](https://apps.apple.com/app/roam-control/id6838265385)
+[Download Roam Control 0.9.9 (Build 105)](https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9).
 
-See the [Installation Guide](Installation.md) for full instructions.
+Build 108 is no longer available for new downloads through the App Store.
+
+See the [Installation Guide](Installation.md) for current guidance.
 
 ## Continuing features
 

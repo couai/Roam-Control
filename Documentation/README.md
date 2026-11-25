@@ -3,32 +3,28 @@
 Welcome to the Roam Control documentation.
 Use the sections below to find installation help, guides, release information and policies.
 
-[Download Roam Control on the App Store](https://apps.apple.com/app/roam-control/id6838265385)
 
 > [!IMPORTANT]
-> **Migrating from a sideloaded version? Back up first.**
+> **Distribution update - 25 November 2026**
 >
-> 1. Open your existing Roam Control installation.
-> 2. Go to **Settings > Backup & Restore** and create a backup.
-> 3. Save the backup outside Roam Control, such as in iCloud Drive, and verify that the file is accessible.
-> 4. Confirm Roam Control is available in your App Store region.
-> 5. Stop any active location simulation using **Stop & Restore**.
-> 6. Delete the existing sideloaded Roam Control app. For LiveContainer, remove the Roam Control instance only.
-> 7. [Download Roam Control on the App Store](https://apps.apple.com/app/roam-control/id6838265385).
-> 8. Restore your backup and complete device pairing again.
+> Roam Control was released on the App Store on 24 November 2026. Following a subsequent re-evaluation by Apple, App Store and TestFlight availability have been disabled.
 >
-> **Do not delete your existing installation before safely saving your backup.**
+> The previously released Roam Control 0.9.9 (Build 105) IPA is available again for independent sideloading through [GitHub Releases](https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9). This is an existing release, not a new update.
 >
-> Backups preserve favourites, history and supported preferences. Pairing information is not included.
+> Apple has been contacted and clarification is pending.
 >
-> Backup & Restore is available from version 0.9.4 onwards. If you are using an earlier version, contact support before deleting it if you need to preserve your data.
+> **Do not unnecessarily delete or uninstall your existing Roam Control installation.** Migration to the App Store remains suspended. Build 105 is available for independent sideloading.
+>
+> Existing users are encouraged to create a backup through **Settings > Backup & Restore**, where supported, and save it safely outside the app.
+>
+> Roam Control has not been discontinued. Further updates regarding availability will be published here.
 
 
 ## Getting started
 
 - [Installation instructions](Installation.md)
 - [User guide](UserGuide.md)
-- [Migrating to the App Store](Installation.md)
+- [Current distribution status](Installation.md)
 - [Historical 0.9.5 migration FAQ](Migration095.md)
 
 ## Releases and updates
@@ -48,6 +44,6 @@ Use the sections below to find installation help, guides, release information an
 - [SelfHostedIKEv2](SelfHostedIKEv2.md)
 - [VPNCompatibility](VPNCompatibility.md)
 
-For the latest version, [Download Roam Control on the App Store](https://apps.apple.com/app/roam-control/id6838265385).
+See the [Installation Guide](Installation.md) for current availability.
 
 For project information, return to the [main README](../README.md).

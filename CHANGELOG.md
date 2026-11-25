@@ -13,20 +13,24 @@ Released 24 November 2026.
 ### App Store release
 
 - First official Apple App Store release.
-- Public IPA distribution retired.
-- SideStore, LiveContainer and IPA signing are no longer required for installation.
+- Public IPA distribution temporarily retired on 24 November 2026. Build 105 distribution resumed on 25 November 2026.
+- Build 108 was distributed without requiring SideStore, LiveContainer or IPA signing.
 - LocalDevVPN and device pairing remain required.
 
 > [!IMPORTANT]
-> **Roam Control is now available on the App Store.**
+> **Distribution update - 25 November 2026**
 >
-> Public IPA distribution has ended.
+> Roam Control was released on the App Store on 24 November 2026. Following a subsequent re-evaluation by Apple, App Store and TestFlight availability have been disabled.
 >
-> Existing sideloaded users must create a backup in **Settings > Backup & Restore**, save it safely outside the app, confirm App Store availability in their region and use **Stop & Restore** before deleting the old installation.
+> The previously released Roam Control 0.9.9 (Build 105) IPA is available again for independent sideloading through [GitHub Releases](https://github.com/seanhowarthdev/Roam-Control/releases/tag/v0.9.9). This is an existing release, not a new update.
 >
-> Then [Download Roam Control on the App Store](https://apps.apple.com/app/roam-control/id6838265385), restore the backup and pair the device again.
+> Apple has been contacted and clarification is pending.
 >
-> Backup & Restore is available from version 0.9.4 onwards. Users of earlier versions should contact support before deleting their existing installation if they need to preserve data.
+> **Do not unnecessarily delete or uninstall your existing Roam Control installation.** Migration to the App Store remains suspended. Build 105 is available for independent sideloading.
+>
+> Existing users are encouraged to create a backup through **Settings > Backup & Restore**, where supported, and save it safely outside the app.
+>
+> Roam Control has not been discontinued. Further updates regarding availability will be published here.
 
 
 ## 0.9.9 - Build 105
@@ -69,7 +73,7 @@ Released 20 October 2026.
 - **Upgrading directly from 0.9.4 or earlier:** Back up favourites, history and supported preferences before moving to the newer `com.roamcontrol` app identifier. Data does not automatically transfer from the old app container; pairing records are not included in app backups and the device must be paired again.
 - See [Installation](Documentation/Installation.md), [Migration FAQ](Documentation/Migration095.md) and [Current Release](Documentation/CurrentRelease.md).
 
-### Historical distribution (retired)
+### Original sideloaded distribution
 
 - IPA: `RoamControl-0.9.9-Build105.ipa`
 - SHA-256: `211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e`
